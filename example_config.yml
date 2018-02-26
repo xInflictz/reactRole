@@ -1,0 +1,17 @@
+token: #Bot's token here
+
+selfRole:
+# The bot can handle multiple messages/channels, add them here in this format
+# Channel ID
+  000000000000000000:
+#   Message ID
+    000000000000000000:
+#     Emote ID          : Role ID
+      000000000000000000: 000000000000000000
+      000000000000000000: 000000000000000000
+      000000000000000000: 000000000000000000
+#   Message ID
+    000000000000000000:
+#     Emote ID          : Role ID
+      000000000000000000: 000000000000000000
+      000000000000000000: 000000000000000000
